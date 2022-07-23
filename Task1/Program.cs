@@ -12,6 +12,6 @@ System.Console.WriteLine($"Обратное число = {numberReverse}");
 
 if(numberReverse == number)
 {
-    System.Console.WriteLine("Обратное число является палинромом");
+    System.Console.WriteLine("Обратное число является палиндромом");
 }
-else System.Console.WriteLine("Обратное число не является палинромом");
+else System.Console.WriteLine("Обратное число не является палиндромом");
