@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Расстояние между точками в трехмерном пространстве
 void printDistance(double x1, double y1, double z1, double x2, double y2, double z2)
 {
     double deltaX = x2 - x1;
