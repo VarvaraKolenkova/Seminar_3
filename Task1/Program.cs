@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Проверка, является ли пятизначное число палиндромом
 Console.WriteLine("Введите пятизначное число");
 int number = int.Parse(Console.ReadLine());
 
